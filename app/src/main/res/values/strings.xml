@@ -28,6 +28,7 @@
         <item>9</item>
         <item>8</item>
         <item>7</item>
+        <item>6</item>
         <item>5</item>
         <item>4</item>
         <item>3</item>
@@ -47,11 +48,11 @@
     <string name="comments_TextView">Any Comments that you may have?</string>
     <string name="comments_EditText"></string>
     <string name="clear_comment_button">Clear comments</string>
-    <string name="submit_comment_button">Submit comments</string>
+    <string name="submit_comment_button">Submit</string>
     <string name="comment_edittext_Hint">Enter Comment(s) Here</string>
     <string name="comment_toast_toastview">The comment(s) have been submitted.</string>
-
-
+    <string name="current_score_EditText">Overall Score</string>
+    <string name="clear_Button">Clear</string>
 
 
 </resources>
